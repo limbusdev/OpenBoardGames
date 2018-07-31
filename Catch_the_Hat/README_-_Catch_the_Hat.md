@@ -16,7 +16,7 @@ Put the colored hats on the according arrows. Now let the youngest player begin.
 
 Roll the dice, move your hat around and try to catch the others. If you hit a field, where another hat is already standing, and it's not yours, you can place your hat on top of it. The top most hat shows the owner of the tower.
 
-<img src="./decoration_tower.png" width="256px" />
+<img src="./decoration_tower.png" width="128px" />
 
 ### Safe Fields
 
