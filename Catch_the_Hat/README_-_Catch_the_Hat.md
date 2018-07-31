@@ -1,6 +1,6 @@
 # Catch the Hat
 
-![](./decoration_kid_white.png width="256")
+![](./decoration_kid_white.png | width=256)
 
 ## Description
 
