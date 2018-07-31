@@ -1,5 +1,7 @@
 # Catch the Hat
 
+![](preview_board_-_catch_the_hat.png)
+
 <img src="./decoration_kid_white.png" width="256px" />
 
 ## Description
