@@ -1,6 +1,6 @@
 # Catch the Hat
 
-![](./decoration_kid_white.png)
+<img src="./decoration_kid_white.png" width="256px" />
 
 ## Description
 
@@ -16,7 +16,7 @@ Put the colored hats on the according arrows. Now let the youngest player begin.
 
 Roll the dice, move your hat around and try to catch the others. If you hit a field, where another hat is already standing, and it's not yours, you can place your hat on top of it. The top most hat shows the owner of the tower.
 
-![](./decoration_tower.png)
+<img src="./decoration_tower.png" width="128px" />
 
 ### Safe Fields
 
@@ -26,7 +26,7 @@ The green fields are so called safe areas, where no one can catch you. Several p
 
 In the middle every player has his prison, where he can bring his catched hats. You must roll an exact number to get to your prison. Then leave all other hats there and bring your own hats back to your start arrow.
 
-![](./decoration_kid_green.png)
+<img src="./decoration_kid_green.png" width="256px" />
 
 ### Rolling a "6"
 
