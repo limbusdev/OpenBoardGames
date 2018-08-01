@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="logo_chess.svg"
-   inkscape:export-filename="/home/georg/Bilder/Brettspiele/OpenBoardGames/Chess/logo_chess_OBG.png"
+   sodipodi:docname="logo_catch_the_hat_OBG.svg"
+   inkscape:export-filename="/home/georg/Bilder/Brettspiele/OpenBoardGames/Chess/logo_catch_the_hat_OBG.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="87.089329"
-     inkscape:cy="75.846283"
+     inkscape:cx="26.925342"
+     inkscape:cy="72.580797"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -98,9 +98,9 @@
        height="33.866665"
        width="33.866665"
        id="rect868"
-       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <rect
-       style="opacity:1;fill:#b03e3e;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect839"
        width="33.866665"
        height="32.808323"
@@ -108,15 +108,6 @@
        y="263.13333"
        rx="2.1166553"
        ry="2.1166553" />
-    <image
-       sodipodi:absref="/home/georg/Bilder/Brettspiele/OpenBoardGames/Chess/logo_chess.png"
-       xlink:href="logo_chess.png"
-       width="35.983334"
-       height="35.983334"
-       preserveAspectRatio="none"
-       id="image836"
-       x="-1.0583317"
-       y="264.19165" />
     <path
        sodipodi:nodetypes="ssccs"
        inkscape:connector-curvature="0"
@@ -162,5 +153,14 @@
          style="opacity:1;fill:#83cee4;fill-opacity:1;stroke:none;stroke-width:37.79527664;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          inkscape:connector-curvature="0" />
     </g>
+    <image
+       sodipodi:absref="/home/georg/Bilder/Brettspiele/OpenBoardGames/Catch_the_Hat/decoration_tower.png"
+       xlink:href="decoration_tower.png"
+       width="13.758334"
+       height="25.608772"
+       preserveAspectRatio="none"
+       id="image947"
+       x="10.054165"
+       y="266.73309" />
   </g>
 </svg>
