@@ -6,6 +6,8 @@
 
 ![](./Chess/logo_chess_OBG.png)
 
+[Game Manual](./Chess/README_-_Chess.md)
+
 ## Catch the Hat
 
 ![](./Catch_the_Hat/logo_catch_the_hat_OBG.png)
