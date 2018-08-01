@@ -1,3 +1,5 @@
+![](./logo_OBG.png)
+
 # Open Board Games
 
 ## Catch the Hat
