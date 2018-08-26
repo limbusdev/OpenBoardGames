@@ -6,6 +6,10 @@
 
 <img src="./decoration_kid_white.png" width="256px" />
 
+## Other Languages
+
+[German](./README_-_Hütchenjagd_DE.md)
+
 ## Description
 
 In "Catch the Hat" players roll the dice clockwise. The youngest player begins. Every Player has 5 hats at the beginning. The goal is to be the last survivor.
