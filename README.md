@@ -2,6 +2,8 @@
 
 # Open Board Games
 
+Have a look at [OpenCardGames](https://github.com/gembutterfly/OpenBoardGames) as well.
+
 ## Chess
 
 ![](./Chess/logo_chess_OBG.png)

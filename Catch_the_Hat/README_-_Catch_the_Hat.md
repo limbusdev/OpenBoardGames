@@ -48,6 +48,8 @@ If you step on a field with a number written on it ("2", "3" or "4"), move again
 
 If there is only one player left, he has won.
 
+![](./preview_real.jpg)
+
 
 
 

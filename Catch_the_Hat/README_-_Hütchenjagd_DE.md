@@ -63,6 +63,7 @@ Endet ein Zug auf einem Feld mit einem Würfelsymbol, dann verlängert sich der 
 
 Der letzte Spieler, der übrig ist, gewinnt.
 
+![](./preview_real.jpg)
 
 
 
