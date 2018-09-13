@@ -1,5 +1,4 @@
-# Chess
-
+# Mill
 ![](logo_mill_OBG.png)
 
 ![](preview_board_-_mill.png)
