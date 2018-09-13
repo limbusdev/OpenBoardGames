@@ -2,7 +2,7 @@
 
 # Open Board Games
 
-Have a look at [OpenCardGames](https://github.com/gembutterfly/OpenBoardGames) as well.
+Have a look at [OpenCardGames](https://github.com/gembutterfly/OpenCardGames) as well.
 
 ## Chess
 
