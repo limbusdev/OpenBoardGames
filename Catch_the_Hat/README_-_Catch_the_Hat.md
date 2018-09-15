@@ -50,6 +50,7 @@ If there is only one player left, he has won.
 
 ![](./preview_real.jpg)
 
+![](./preview_game_figures.png)
 
 
 

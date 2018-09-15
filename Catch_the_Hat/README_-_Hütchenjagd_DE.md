@@ -65,5 +65,7 @@ Der letzte Spieler, der übrig ist, gewinnt.
 
 ![](./preview_real.jpg)
 
+![](./preview_game_figures.png)
+
 
 
