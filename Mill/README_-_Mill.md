@@ -1,4 +1,6 @@
-# Chess
+# Mill (Nine men's morris)
+
+See [all Open Board Games](../README.md)
 
 ![](logo_mill_OBG.png)
 
@@ -8,4 +10,6 @@
 
 You can print the game figures for yourself. Simply print the provided STL file once white, once black.
 
-![](preview_printable_game_figures.png)
+![](preview_game_figure_mill.png)
+
+You can find it at [Thingiverse](https://www.thingiverse.com/thing:3101917) as well.
