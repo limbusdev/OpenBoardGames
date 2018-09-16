@@ -21,3 +21,9 @@ Have a look at [OpenCardGames](https://github.com/gembutterfly/OpenCardGames) as
 ![](./Mill/logo_mill_OBG.png)
 
 [Game Manual](./Mill/README_-_Mill.md)
+
+## Halma
+
+![](./Halma/logo_halma_OBG.png)
+
+[Game Manual](./Halma/README_-_Halma.md)
