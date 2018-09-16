@@ -27,3 +27,9 @@ Have a look at [OpenCardGames](https://github.com/gembutterfly/OpenCardGames) as
 ![](./Halma/logo_halma_OBG.png)
 
 [Game Manual](./Halma/README_-_Halma.md)
+
+## Draughts
+
+![](./Draughts/logo_draughts_OBG.png)
+
+[Game Manual](./Draughts/README_-_Draughts.md)
